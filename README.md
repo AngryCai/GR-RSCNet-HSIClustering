@@ -2,6 +2,7 @@
 [Y. Cai, M. Zeng, Z. Cai, X. Liu, and Z. Zhang, "Graph Regularized Residual Subspace Clustering Network for hyperspectral image clustering," Information Sciences, vol. 578, pp. 85-101, 2021.
 ](https://www.sciencedirect.com/science/article/pii/S0020025521006939)
 
+![overview](figures/overview.png)
 
 
 ## Citing ##
@@ -15,6 +16,7 @@
     year = {2021},
     doi = {https://doi.org/10.1016/j.ins.2021.07.003}
     }
+
 
 
 ## Requirements ##
